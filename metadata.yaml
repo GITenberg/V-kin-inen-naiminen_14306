@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14306#V-kin-inen-naiminen
 gutenberg_issued: '2004-12-09'
 gutenberg_type: Text
 identifiers:
